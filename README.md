@@ -1,3 +1,5 @@
 # git_prac
 pracOfChap01
-_The day 1_
+
+\n_The day 1_
+-작성자: JSU
